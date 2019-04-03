@@ -1,0 +1,9 @@
+img {
+  max-width: 5vw;
+  max-height: 5vh;
+}
+
+.panel {
+  display: flex;
+  align-items: center;
+}
